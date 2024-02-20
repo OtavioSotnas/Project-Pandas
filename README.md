@@ -21,5 +21,5 @@ um contexto prático, relevante e data-driven.
 - **Order Items**: Dados sobre os itens adquiridos em cada pedido.
 - **Payments Dataset**: Ddados sobre as opções de pagamento dos pedidos.
 - **Order Reviews**: Dados sobre as avaliações feitas pelos clientes.
-- **Products **: Dados sobre os produtos vendidos pelo site.
-- **Sellers **: Dados sobre os vendedores que atenderam aos pedidos feitos no site.
+- **Products**: Dados sobre os produtos vendidos pelo site.
+- **Sellers**: Dados sobre os vendedores que atenderam aos pedidos feitos no site.

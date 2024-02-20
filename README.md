@@ -11,6 +11,7 @@ um contexto prático, relevante e data-driven.
 **Trello:** https://trello.com/b/v8IAs6a9/trabalho-ada-tp1
 
 Compreendendo a base de dados:
+
 ![Tabela](https://github.com/OtavioSotnas/AnaliseExploratoria-ADA-Santander/assets/142911747/47beffb2-ed6b-44ff-ad7c-9899aa5b7cbe)
 
 

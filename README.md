@@ -1,6 +1,6 @@
 # Análise Exploratória de Dados de Vendas Online - Módulo 2
 
-## Por: Otávio, Thaina, Hugo e Daniel
+## Por: Otávio, Tainah, Hugo e Daniel
 
 **Objetivo:** aplicar os
 conhecimentos adquiridos ao longo da disciplina de Técnicas de Programação 1 em

@@ -10,10 +10,16 @@ um contexto prático, relevante e data-driven.
 
 **Trello:** https://trello.com/b/v8IAs6a9/trabalho-ada-tp1
 
-**Compreendendo a base de dados:**
+**Compreendendo as bases de dados:**
 
 ![Tabela](https://github.com/OtavioSotnas/AnaliseExploratoria-ADA-Santander/assets/142911747/47beffb2-ed6b-44ff-ad7c-9899aa5b7cbe)
 
 
-
-
+- **Order**: Este é o conjunto de dados principal. De cada pedido você pode encontrar todas as outras informações
+- **Customers**: Informações sobre o cliente e sua localização.
+- **Geolocation**: Informações dos CEPs e suas coordenadas lat/lng.
+- **Order Items**: Dados sobre os itens adquiridos em cada pedido.
+- **Payments Dataset**: Ddados sobre as opções de pagamento dos pedidos.
+- **Order Reviews**: Dados sobre as avaliações feitas pelos clientes.
+- **Products **: Dados sobre os produtos vendidos pelo site.
+- **Sellers **: Dados sobre os vendedores que atenderam aos pedidos feitos no site.

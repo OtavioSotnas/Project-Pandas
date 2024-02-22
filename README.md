@@ -28,6 +28,7 @@ um contexto prático, relevante e data-driven.
  ## Seção para perguntas 
 Deposite sua pergunta e deixe sua inicial na frente da pergunta:
 - As maiores compras são feitas com cartão de crédito ? Se sim, Todas ou a maioria ?!
+- Quais tipos de pagamento permitem o parcelamento (utilização de máscara booleana).
 - Quais são os vendedores que mais atenderam pedidos ?
   - Quais os que atenderam mais de 100 pedidos
 - Quais os produtos que são os produtos com maior preço no mercado ?

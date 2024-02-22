@@ -27,4 +27,4 @@ um contexto prático, relevante e data-driven.
  
  ## Seção para perguntas 
 Deposite sua pergunta e deixe sua inicial na frente da pergunta:
-- Exemplo ??? H
+- As maiores compras são feitas com cartão de crédito ? Se sim, Todas ou a maioria ?!

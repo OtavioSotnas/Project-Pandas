@@ -34,4 +34,4 @@ Deposite sua pergunta e deixe sua inicial na frente da pergunta:
    - Quais os produtos que tem preço menor que a média do mercado
 - Quais produtos têm avaliação boa e ruim? (usar ndarray para criarnova coluna com True e False)
   - Quais palavras mais usadas nos comentários com avaliações boas e ruins? (usar wordclouds)
-
+- Como se distribuem os consumidores por estado?

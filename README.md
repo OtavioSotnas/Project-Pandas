@@ -31,5 +31,7 @@ Deposite sua pergunta e deixe sua inicial na frente da pergunta:
 - Quais são os vendedores que mais atenderam pedidos ?
   - Quais os que atenderam mais de 100 pedidos
 - Quais os produtos que são os produtos com maior preço no mercado ?
-   - Quais os produtos que tem preço menor que a média do mercado 
+   - Quais os produtos que tem preço menor que a média do mercado
+- Quais produtos têm avaliação boa e ruim? (usar ndarray para criarnova coluna com True e False)
+  - Quais palavras mais usadas nos comentários com avaliações boas e ruins? (usar wordclouds)
 

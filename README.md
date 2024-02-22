@@ -35,3 +35,5 @@ Deposite sua pergunta e deixe sua inicial na frente da pergunta:
 - Quais produtos têm avaliação boa e ruim? (usar ndarray para criarnova coluna com True e False)
   - Quais palavras mais usadas nos comentários com avaliações boas e ruins? (usar wordclouds)
 - Como se distribuem os consumidores por estado?
+- Quais as categorias de produtos mais propensas à insatisfação do cliente? (tentar fazer com merge).
+- Calcular volume dos produtos (com ndarray).

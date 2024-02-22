@@ -23,3 +23,8 @@ um contexto prático, relevante e data-driven.
 - **Order Reviews**: Dados sobre as avaliações feitas pelos clientes.
 - **Products**: Dados sobre os produtos vendidos pelo site.
 - **Sellers**: Dados sobre os vendedores que atenderam aos pedidos feitos no site.
+ 
+ 
+ ## Seção para perguntas 
+Deposite sua pergunta e deixe sua inicial na frente da pergunta:
+- Exemplo ??? H

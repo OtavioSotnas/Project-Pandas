@@ -39,3 +39,4 @@ Deposite sua pergunta e deixe sua inicial na frente da pergunta:
 - Quais as categorias de produtos mais propensas à insatisfação do cliente? (tentar fazer com merge).
 - Qual o volume de cada produto em litros? (ndarray)
 - Quais categorias possuem quantidades de produtos acima da média? (máscara booleana)
+- Verificar se um produto foi vendido abaixo do preço de mercado ou acima

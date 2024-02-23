@@ -27,8 +27,8 @@ um contexto prático, relevante e data-driven.
  
  ## Seção para perguntas 
 Deposite sua pergunta e deixe sua inicial na frente da pergunta:
-- As maiores compras são feitas com cartão de crédito? Se sim, qual a proporção?
-- Quais tipos de pagamento permitem o parcelamento? (utilização de máscara booleana).
+- Quais os tipos de pagamento mais utilizados? E para os valores mais altos, a proporção se mantém? (máscara booleana)
+- Quais tipos de pagamento permitem o parcelamento? (máscara booleana)
 - Quais são os vendedores que mais atenderam pedidos ?
   - Quais os que atenderam mais de 100 pedidos
 - Quais os produtos que são os produtos com maior preço no mercado ?
@@ -37,4 +37,5 @@ Deposite sua pergunta e deixe sua inicial na frente da pergunta:
   - Quais palavras mais usadas nos comentários com avaliações boas e ruins? (usar wordclouds)
 - Como se distribuem os consumidores por estado?
 - Quais as categorias de produtos mais propensas à insatisfação do cliente? (tentar fazer com merge).
-- Calcular volume dos produtos (com ndarray).
+- Qual o volume de cada produto em litros? (ndarray)
+- Quais categorias possuem quantidades de produtos acima da média? (máscara booleana)

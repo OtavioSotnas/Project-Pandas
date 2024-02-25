@@ -37,7 +37,7 @@ Deposite sua pergunta e deixe sua inicial na frente da pergunta:
 - [x] Quais palavras mais usadas nos comentários com avaliações boas e ruins? (usar wordclouds) -OK
 - [x]  Qual o volume de cada produto em litros? (ndarray) -OK
 - [x] Verificar se um produto foi vendido abaixo do preço de mercado ou acima -OK
-- [] Como se distribuem os consumidores por estado?
-- [] Quais as categorias de produtos mais propensas à insatisfação do cliente? (tentar fazer com merge).
-- [] Quais categorias possuem quantidades de produtos acima da média? (máscara booleana)
+- [ ] Como se distribuem os consumidores por estado?
+- [ ] Quais as categorias de produtos mais propensas à insatisfação do cliente? (tentar fazer com merge).
+- [ ] Quais categorias possuem quantidades de produtos acima da média? (máscara booleana)
 

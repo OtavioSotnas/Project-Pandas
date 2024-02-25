@@ -27,17 +27,17 @@ um contexto prático, relevante e data-driven.
  
  ## Seção para perguntas 
 Deposite sua pergunta e deixe sua inicial na frente da pergunta:
-- Quais os tipos de pagamento mais utilizados? E para os valores mais altos, a proporção se mantém? (máscara booleana) -OK
-- Quais tipos de pagamento permitem o parcelamento? (máscara booleana) -OK
-- Verificar se um produto foi vendido acima do preço do mercado -OK
-- Categorizar vendedores entre Iniciante, Intermediário, Avançado e Mestre -OK
-- Quais estados que mais faturam -OK
-  - Quais estados faturam menos que a média -OK
-- Quais produtos têm avaliação boa e ruim? (usar ndarray para criarnova coluna com True e False) -OK
-  - Quais palavras mais usadas nos comentários com avaliações boas e ruins? (usar wordclouds) -OK
-- Qual o volume de cada produto em litros? (ndarray) -OK
-- Verificar se um produto foi vendido abaixo do preço de mercado ou acima -OK
-- Como se distribuem os consumidores por estado?
-- Quais as categorias de produtos mais propensas à insatisfação do cliente? (tentar fazer com merge).
-- Quais categorias possuem quantidades de produtos acima da média? (máscara booleana)
+- [x] Quais os tipos de pagamento mais utilizados? E para os valores mais altos, a proporção se mantém? (máscara booleana) -OK
+- [x] Quais tipos de pagamento permitem o parcelamento? (máscara booleana) -OK
+- [x] Verificar se um produto foi vendido acima do preço do mercado -OK
+- [x] Categorizar vendedores entre Iniciante, Intermediário, Avançado e Mestre -OK
+- [x] Quais estados que mais faturam -OK
+- [x] Quais estados faturam menos que a média -OK
+- [x] Quais produtos têm avaliação boa e ruim? (usar ndarray para criarnova coluna com True e False) -OK
+- [x] Quais palavras mais usadas nos comentários com avaliações boas e ruins? (usar wordclouds) -OK
+- [x]  Qual o volume de cada produto em litros? (ndarray) -OK
+- [x] Verificar se um produto foi vendido abaixo do preço de mercado ou acima -OK
+- [] Como se distribuem os consumidores por estado?
+- [] Quais as categorias de produtos mais propensas à insatisfação do cliente? (tentar fazer com merge).
+- [] Quais categorias possuem quantidades de produtos acima da média? (máscara booleana)
 

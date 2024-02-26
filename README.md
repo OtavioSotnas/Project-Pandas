@@ -38,6 +38,5 @@ Deposite sua pergunta e deixe sua inicial na frente da pergunta:
 - [x]  Qual o volume de cada produto em litros? (ndarray)
 - [x] Verificar se um produto foi vendido abaixo do preço de mercado ou acima
 - [x] Como se distribuem os consumidores por estado?
-- [x] Quais as categorias de produtos mais propensas à insatisfação do cliente? (tentar fazer com merge).
-- [ ] Quais categorias possuem quantidades de produtos acima da média? (máscara booleana)
+- [x] Quais as categorias de produtos mais propensas à insatisfação do cliente? (tentar fazer com merge).)
 

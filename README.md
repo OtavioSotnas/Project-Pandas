@@ -10,7 +10,7 @@ um contexto prático, relevante e data-driven.
 
 **Trello:** https://trello.com/b/v8IAs6a9/trabalho-ada-tp1
 
-**Compreendendo as bases de dados:**
+## Compreendendo as bases de dados
 
 ![Tabela](https://github.com/OtavioSotnas/AnaliseExploratoria-ADA-Santander/assets/142911747/47beffb2-ed6b-44ff-ad7c-9899aa5b7cbe)
 
@@ -25,8 +25,7 @@ um contexto prático, relevante e data-driven.
 - **Sellers**: Dados sobre os vendedores que atenderam aos pedidos feitos no site.
  
  
- ## Seção para perguntas 
-Deposite sua pergunta e deixe sua inicial na frente da pergunta:
+ ## Seção de perguntas 
 - [x] Quais os tipos de pagamento mais utilizados? E para os valores mais altos, a proporção se mantém? (máscara booleana)
 - [x] Quais tipos de pagamento permitem o parcelamento? (máscara booleana)
 - [x] Verificar se um produto foi vendido acima do preço do mercado
@@ -38,6 +37,5 @@ Deposite sua pergunta e deixe sua inicial na frente da pergunta:
 - [x]  Qual o volume de cada produto em litros? (ndarray)
 - [x] Verificar se um produto foi vendido abaixo do preço de mercado ou acima
 - [x] Como se distribuem os consumidores por estado?
-- [x] Quais as categorias de produtos mais propensas à insatisfação do cliente? (tentar fazer com merge).
-- [ ] Quais categorias possuem quantidades de produtos acima da média? (máscara booleana)
+- [x] Quais as categorias de produtos mais propensas à insatisfação do cliente? (tentar fazer com merge).)
 

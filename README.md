@@ -25,8 +25,7 @@ um contexto prático, relevante e data-driven.
 - **Sellers**: Dados sobre os vendedores que atenderam aos pedidos feitos no site.
  
  
- ## Seção para perguntas 
-Deposite sua pergunta e deixe sua inicial na frente da pergunta:
+ ## Seção de perguntas 
 - [x] Quais os tipos de pagamento mais utilizados? E para os valores mais altos, a proporção se mantém? (máscara booleana)
 - [x] Quais tipos de pagamento permitem o parcelamento? (máscara booleana)
 - [x] Verificar se um produto foi vendido acima do preço do mercado

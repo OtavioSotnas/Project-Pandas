@@ -28,14 +28,13 @@ um contexto prático, relevante e data-driven.
  ## Seção de perguntas 
 - [x] Quais os tipos de pagamento mais utilizados? E para os valores mais altos, a proporção se mantém? (máscara booleana)
 - [x] Quais tipos de pagamento permitem o parcelamento? (máscara booleana)
-- [x] Verificar se um produto foi vendido acima do preço do mercado
-- [x] Categorizar vendedores entre Iniciante, Intermediário, Avançado e Mestre
-- [x] Quais estados que mais faturam
-- [x] Quais estados faturam menos que a média
-- [x] Quais produtos têm avaliação boa e ruim? (usar ndarray para criarnova coluna com True e False)
+- [x] Verificar se um produto foi vendido acima do preço do mercado (ndarray)
+- [x] Categorizar vendedores entre Iniciante, Intermediário, Avançado e Mestre (ndarray)
+- [x] Quais estados que mais faturam ?
+- [x] Quais estados faturam menos que a média ? (máscara booleana)
+- [x] Quais produtos têm avaliação boa e ruim ? (usar ndarray para criarnova coluna com True e False)
 - [x] Quais palavras mais usadas nos comentários com avaliações boas e ruins? (usar wordclouds)
-- [x]  Qual o volume de cada produto em litros? (ndarray)
-- [x] Verificar se um produto foi vendido abaixo do preço de mercado ou acima
+- [x] Quais categorias de produtos com mais reclamações dos clientes ? (máscara booleana)
+- [x] Qual o volume de cada produto em litros? (ndarray)
 - [x] Como se distribuem os consumidores por estado?
-- [x] Quais as categorias de produtos mais propensas à insatisfação do cliente? (tentar fazer com merge).)
-
+- [x] Como se distribuem os consumidores por estado? (máscara booleana)

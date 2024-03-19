@@ -1,6 +1,6 @@
-# Análise Exploratória de Dados de Vendas Online
+# Análise Exploratória de Dados
 
-- Projeto: EDA (Análise Exploratória de Dados)
+- Projeto: EDA (Análise Exploratória de Dados) com Pandas e Numpy
 - Curso: Data Science - Santander Coders 2023 | 2º Semestre
 - Módulo: Técnicas de Programação I
 - Professor: Thiago
@@ -13,11 +13,11 @@ O objetivo deste projeto é aplicar os conhecimentos adquiridos ao longo da disc
 
 ## 2. METODOLOGIAS ÁGEIS
 
-Para este projeto foi utilizada a ferramenta de gestão de projetos [Trello]([https://trello.com/b/yLjzU1Dh/projeto-sql-ada](https://trello.com/b/v8IAs6a9/projeto-pandas-ada)). Utilizado para manter o projeto organizado, facilitando a colaboração entre os membros da equipe e garantido que o projeto seja concluído dentro do prazo estabelecido.
+Para este projeto foi utilizada a ferramenta de gestão de projetos Trello. Utilizado para manter o projeto organizado, facilitando a colaboração entre os membros da equipe e garantido que o projeto seja concluído dentro do prazo estabelecido.
 
-**Base de dados**: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+![image](images/trello.png)
 
-
+Fonte: [Trello - Projeto Pandas ADA](https://trello.com/b/v8IAs6a9/projeto-pandas-ada)
 
 ## 3. BASE DE DADOS
 

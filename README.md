@@ -15,9 +15,7 @@ O objetivo deste projeto é aplicar os conhecimentos adquiridos ao longo da disc
 
 Para este projeto foi utilizada a ferramenta de gestão de projetos [Trello]([https://trello.com/b/yLjzU1Dh/projeto-sql-ada](https://trello.com/b/v8IAs6a9/projeto-pandas-ada)). Utilizado para manter o projeto organizado, facilitando a colaboração entre os membros da equipe e garantido que o projeto seja concluído dentro do prazo estabelecido.
 
-**Base de dados**: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
-
-
+![image](images/trello.png)
 
 ## 3. BASE DE DADOS
 

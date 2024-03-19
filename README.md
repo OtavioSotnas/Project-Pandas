@@ -13,9 +13,11 @@ O objetivo deste projeto é aplicar os conhecimentos adquiridos ao longo da disc
 
 ## 2. METODOLOGIAS ÁGEIS
 
-Para este projeto foi utilizada a ferramenta de gestão de projetos [Trello](https://trello.com/b/v8IAs6a9/projeto-pandas-ada). Utilizado para manter o projeto organizado, facilitando a colaboração entre os membros da equipe e garantido que o projeto seja concluído dentro do prazo estabelecido.
+Para este projeto foi utilizada a ferramenta de gestão de projetos Trello. Utilizado para manter o projeto organizado, facilitando a colaboração entre os membros da equipe e garantido que o projeto seja concluído dentro do prazo estabelecido.
 
 ![image](images/trello.png)
+
+Fonte: [Trello - Projeto Pandas ADA](https://trello.com/b/v8IAs6a9/projeto-pandas-ada)
 
 ## 3. BASE DE DADOS
 

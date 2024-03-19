@@ -1,6 +1,6 @@
-# Análise Exploratória de Dados de Vendas Online
+# Análise Exploratória de Dados
 
-- Projeto: EDA (Análise Exploratória de Dados)
+- Projeto: EDA (Análise Exploratória de Dados) com Pandas e Numpy
 - Curso: Data Science - Santander Coders 2023 | 2º Semestre
 - Módulo: Técnicas de Programação I
 - Professor: Thiago
